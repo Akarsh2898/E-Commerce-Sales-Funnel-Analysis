@@ -1,0 +1,14 @@
+# Local artifacts
+data/raw/*.csv
+data/*.duckdb
+data/*.duckdb.wal
+data/validation_results/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# IDE / env
+.env
+.venv/
+venv/

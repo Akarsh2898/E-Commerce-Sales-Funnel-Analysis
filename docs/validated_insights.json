@@ -1,0 +1,54 @@
+{
+  "snapshot": {
+    "total_orders": 98199,
+    "unique_customers": 94983,
+    "active_sellers": 3053,
+    "total_gmv": 13494400.74,
+    "avg_review_score": 4.05
+  },
+  "late_vs_ontime_reviews": [
+    {
+      "status": "Late",
+      "avg_score": 2.57,
+      "n": 7618
+    },
+    {
+      "status": "On Time",
+      "avg_score": 4.3,
+      "n": 87720
+    }
+  ],
+  "repeat_rate": {
+    "repeat_customer_pct": 3.05
+  },
+  "top_categories": [
+    {
+      "category": "health_beauty",
+      "revenue": 1258681.34
+    },
+    {
+      "category": "watches_gifts",
+      "revenue": 1205005.68
+    },
+    {
+      "category": "bed_bath_table",
+      "revenue": 1036988.68
+    },
+    {
+      "category": "sports_leisure",
+      "revenue": 988048.97
+    },
+    {
+      "category": "computers_accessories",
+      "revenue": 911954.32
+    }
+  ],
+  "funnel": {
+    "total_mqls": 8000,
+    "closed_deals": 842,
+    "conversion_pct": 10.53
+  },
+  "on_time_pct": {
+    "on_time_delivery_pct": 91.89
+  }
+}
